@@ -1,2 +1,2 @@
-# YesslyPomaDelaCruz.github.io
+# YesslyDelaCruz.github.io
 sitio web personal
